@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Séries site",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FAVSERIES",
+  "start_url": "index.html",
+  "theme_color": "#ffffff",
+  "description": "Encontre suas séries favoritas e salve!",
+  "lang": "pt",
+  "categories": [
+    "entertainment"
+  ]
+}
